@@ -1,0 +1,104 @@
+{
+  "logo-clara.webp": {
+    "width": 1000,
+    "height": 302,
+    "sourceSize": [
+      5189,
+      1600
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "logo-escura.webp": {
+    "width": 1000,
+    "height": 302,
+    "sourceSize": [
+      5189,
+      1600
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "simbolo-claro.webp": {
+    "width": 360,
+    "height": 266,
+    "sourceSize": [
+      2148,
+      1600
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "simbolo-escuro.webp": {
+    "width": 360,
+    "height": 266,
+    "sourceSize": [
+      2148,
+      1600
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "aurena-fachada.webp": {
+    "width": 662,
+    "height": 439,
+    "bounds": [
+      16,
+      283,
+      678,
+      722
+    ]
+  },
+  "aurena-ambiente.webp": {
+    "width": 319,
+    "height": 439,
+    "bounds": [
+      691,
+      283,
+      1010,
+      722
+    ]
+  },
+  "aurena-avental.webp": {
+    "width": 321,
+    "height": 323,
+    "bounds": [
+      17,
+      735,
+      338,
+      1058
+    ]
+  },
+  "aurena-toalha.webp": {
+    "width": 299,
+    "height": 423,
+    "bounds": [
+      711,
+      1071,
+      1010,
+      1494
+    ]
+  },
+  "aurena-materiais.webp": {
+    "width": 329,
+    "height": 323,
+    "bounds": [
+      352,
+      735,
+      681,
+      1058
+    ]
+  },
+  "panel": [
+    1024,
+    1536
+  ]
+}

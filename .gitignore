@@ -1,0 +1,17 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+/verificacao/
+*.ai
+/Logo Clara.png
+/Logo Escura.png
+/Simbolo Claro.png
+/Simbolo Escuro.png
+/Referencia Identidade Visual.png
+
+# Documentação de trabalho preservada apenas no acervo local
+/*-LOCAL.md

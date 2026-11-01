@@ -1,0 +1,12 @@
+{
+  "name": "aurena-beauty-conceitual",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Site conceitual Aurena Beauty da Agência Nofer, estático e personalizável.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test",
+    "metadata": "node scripts/sync-metadata.mjs"
+  }
+}
